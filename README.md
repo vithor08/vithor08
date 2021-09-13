@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vithor08
+- 👀 I’m interested in maybe creating my own game or website
+- 🌱 I’m currently learning how to start programming (python, JavaScript, HMTL and CSS)
+- 📫 How to reach me: vithor.vargas@gmail.com
